@@ -7,6 +7,6 @@ import { WeatherService } from './sub-services/weatherService';
 export class ApiService {
 
   constructor(
-    public readonly weatherService: WeatherService    
+    public readonly weatherService: WeatherService
   ) { }
 }

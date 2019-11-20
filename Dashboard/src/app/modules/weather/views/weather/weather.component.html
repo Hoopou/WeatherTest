@@ -1,1 +1,53 @@
-<p>weather works!</p>
+<div class="temp-input">
+    <h5>Add a temperature</h5>
+    <span class="input-group">
+        <input class="form-control" type="number" [(ngModel)]="value">
+        <div class="input-group-append">
+            <span class="input-group-append">
+                <select class="form-control">
+                    <option value="days" selected>&#xb0;C</option>
+                </select>
+            </span>
+        </div>
+        <button class="btn btn-success" (click)="addValue()">Add</button>
+    </span>
+</div>
+
+<hr>
+
+<div class="temp-input" style="display: flex;">
+    <div style="width: 70%; padding-right: 10%">
+        <h5>Temperature list:</h5>
+        <table class="table table-striped">
+            <tbody>
+                <tr *ngFor="let item of data.list">
+                    <th scope="row">{{item.deg/10}}&#xb0;C</th>
+                    <td>november 3, 2017</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div style="width: 30%; padding-right: 5%">
+        <h5>Important values :</h5>
+        <table class="table table-striped">
+            <tbody>
+                <tr>
+                    <th style="background-color: #28a745; border-radius: 0.1rem;">Average</th>
+                    <td style="margin-left: -0.5rem;background-color: #96faa3;border: 0.15rem solid #28a745;">
+                        {{getAVG()| number : '1.2-2'}}&#xb0;C</td>
+                </tr>
+                <tr>
+                    <th style="background-color: #28a745; border-radius: 0.1rem;">Min</th>
+                    <td style="margin-left: -0.5rem;background-color: #96faa3;border: 0.15rem solid #28a745;">
+                        {{getMin()| number : '1.2-2'}}&#xb0;C</td>
+                </tr>
+                <tr>
+                    <th style="background-color: #28a745; border-radius: 0.1rem;">Max</th>
+                    <td style="margin-left: -0.5rem;background-color: #96faa3;border: 0.15rem solid #28a745;">
+                        {{getMax()| number : '1.2-2'}}&#xb0;C</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+</div>

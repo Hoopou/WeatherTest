@@ -1,4 +1,5 @@
 *.lock
+.vs
 # Logs
 logs
 *.log

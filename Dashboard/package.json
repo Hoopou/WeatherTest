@@ -1,5 +1,5 @@
 {
-  "name": "custom-template",
+  "name": "weather",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",

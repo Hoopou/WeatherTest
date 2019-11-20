@@ -8,7 +8,7 @@ import { SidebarModule } from 'ng-sidebar';
 import { HttpModule } from '@angular/http';
 import { RequestInterceptor } from './core/interceptors/request.interceptor';
 import { CookieInterceptor } from './core/interceptors/cookie.interceptor';
-import { HTTP_INTERCEPTORS } from '@angular/common/http';
+import { HTTP_INTERCEPTORS, HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -19,6 +19,8 @@ import { HTTP_INTERCEPTORS } from '@angular/common/http';
     BrowserModule,
     AppRoutingModule,
     SidebarModule.forRoot(),
+    HttpModule,
+    HttpClientModule,
     HttpModule,
   ],
   providers: [
@@ -31,7 +33,8 @@ import { HTTP_INTERCEPTORS } from '@angular/common/http';
       provide: HTTP_INTERCEPTORS,
       useClass: RequestInterceptor,
       multi: true
-    },],
+    },
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

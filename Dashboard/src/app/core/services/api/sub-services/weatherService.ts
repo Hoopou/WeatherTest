@@ -9,9 +9,11 @@ import { WeatherData } from 'src/app/core/models/weather-data.model';
 })
 export class WeatherService {
 
-    settingsPath: string = environment.API_URL + "/weather";
+    settingsPath: string = environment.API_URL + "weather";
 
-    constructor(private http: HttpClient) { }
+    constructor(
+        private http: HttpClient
+        ) { }
 
     getList(): Observable<WeatherData> {
         return this.http.get<WeatherData>(this.settingsPath);

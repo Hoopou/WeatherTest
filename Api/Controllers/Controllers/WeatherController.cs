@@ -36,6 +36,8 @@ namespace Api.Controllers.Controllers
             {
             Logger.LogMessage("Trying to read file", true);
 
+                //return Ok(Path.GetFullPath("./"));
+
             using (StreamReader r = new StreamReader(this._appSettings.FilePath))
             {
                 var json = r.ReadToEnd();

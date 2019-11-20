@@ -19,11 +19,21 @@ export class RequestInterceptor implements HttpInterceptor {
     }
 
     intercept(req: HttpRequest<any>, next: HttpHandler): Observable<HttpEvent<any>> {
-
-        return next.handle(req).pipe(
-            tap(() => { }, err => {
-               console.log("erreur lors de la requete au serveur");
-            })
-        );
-    }
+        if(localStorage.getItem("token") != null){
+             req = req.clone({
+               headers: req.headers.append('Authorization', 'Bearer ' + localStorage.getItem('token'))
+               
+            });
+            //console.log("REQUETE AVEC TOKEN:", req);
+        }else{
+           //console.log("REQUETE SANS TOKEN:", req);
+        }
+       return next.handle(req).pipe(
+           tap(() => { }, err => {
+               if (err instanceof HttpErrorResponse && err.status == 401) {
+                   
+               }
+           })
+       );
+   }
 }

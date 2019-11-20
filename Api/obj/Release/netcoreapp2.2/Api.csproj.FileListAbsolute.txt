@@ -1,0 +1,13 @@
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Release\netcoreapp2.2\Api.deps.json
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Release\netcoreapp2.2\Api.runtimeconfig.json
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Release\netcoreapp2.2\Api.runtimeconfig.dev.json
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Release\netcoreapp2.2\Api.dll
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Release\netcoreapp2.2\Api.pdb
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Release\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Release\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Release\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Release\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Release\netcoreapp2.2\Api.AssemblyInfo.cs
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Release\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Release\netcoreapp2.2\Api.dll
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Release\netcoreapp2.2\Api.pdb

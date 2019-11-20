@@ -1,0 +1,87 @@
+C:\Users\vince\Documents\Programmation\Gestion employés - Application multimédia\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+C:\Users\vince\Documents\Programmation\Gestion employés - Application multimédia\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+C:\Users\vince\Documents\Programmation\Gestion employés - Application multimédia\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+C:\Users\vince\Documents\Programmation\Gestion employés - Application multimédia\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.dll
+C:\Users\vince\Documents\Programmation\Gestion employés - Application multimédia\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.pdb
+C:\Users\vince\Documents\Programmation\Gestion employés - Application multimédia\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+C:\Users\vince\Documents\Programmation\Gestion employés - Application multimédia\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+C:\Users\vince\Documents\Programmation\Gestion employés - Application multimédia\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+C:\Users\vince\Documents\Programmation\Gestion employés - Application multimédia\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+C:\Users\vince\Documents\Programmation\Gestion employés - Application multimédia\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+C:\Users\vince\Documents\Programmation\Gestion employés - Application multimédia\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+C:\Users\vince\Documents\Programmation\Gestion employés - Application multimédia\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.dll
+C:\Users\vince\Documents\Programmation\Gestion employés - Application multimédia\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.pdb
+C:\Users\Hugo Bouchard\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+C:\Users\Hugo Bouchard\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+C:\Users\Hugo Bouchard\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+C:\Users\Hugo Bouchard\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.dll
+C:\Users\Hugo Bouchard\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.pdb
+C:\Users\Hugo Bouchard\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
+C:\Users\Hugo Bouchard\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Bouchard\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+C:\Users\Hugo Bouchard\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+C:\Users\Hugo Bouchard\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+C:\Users\Hugo Bouchard\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+C:\Users\Hugo Bouchard\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+C:\Users\Hugo Bouchard\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.dll
+C:\Users\Hugo Bouchard\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.pdb
+C:\Users\vince\Documents\Programmation\Gestion employés - Application multimédia\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
+C:\Users\andrew\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+C:\Users\andrew\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+C:\Users\andrew\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+C:\Users\andrew\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.dll
+C:\Users\andrew\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.pdb
+C:\Users\andrew\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
+C:\Users\andrew\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+C:\Users\andrew\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+C:\Users\andrew\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+C:\Users\andrew\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+C:\Users\andrew\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+C:\Users\andrew\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+C:\Users\andrew\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.dll
+C:\Users\andrew\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.pdb
+C:\Users\Yassine\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Yassine\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Yassine\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\Yassine\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Yassine\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+C:\Users\Yassine\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+C:\Users\Yassine\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+C:\Users\Yassine\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.dll
+C:\Users\Yassine\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.pdb
+C:\Users\Yassine\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
+C:\Users\Yassine\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+C:\Users\Yassine\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+C:\Users\Yassine\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+C:\Users\Yassine\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+C:\Users\Yassine\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+C:\Users\Yassine\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.dll
+C:\Users\Yassine\source\repos\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.pdb
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.dll
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\bin\Debug\netcoreapp2.2\Api.pdb
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.dll
+C:\Users\vince\Documents\GestionnaireDesEffectifs\Gestion des effectifs\Api\obj\Debug\netcoreapp2.2\Api.pdb
+C:\Users\vince\Desktop\TemperatureListMocks\Weather\Api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
+C:\Users\vince\Desktop\TemperatureListMocks\Weather\Api\obj\Debug\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+C:\Users\vince\Desktop\TemperatureListMocks\Weather\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+C:\Users\vince\Desktop\TemperatureListMocks\Weather\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+C:\Users\vince\Desktop\TemperatureListMocks\Weather\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+C:\Users\vince\Desktop\TemperatureListMocks\Weather\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+C:\Users\vince\Desktop\TemperatureListMocks\Weather\Api\obj\Debug\netcoreapp2.2\Api.dll
+C:\Users\vince\Desktop\TemperatureListMocks\Weather\Api\obj\Debug\netcoreapp2.2\Api.pdb
+C:\Users\vince\Desktop\TemperatureListMocks\Weather\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+C:\Users\vince\Desktop\TemperatureListMocks\Weather\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+C:\Users\vince\Desktop\TemperatureListMocks\Weather\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+C:\Users\vince\Desktop\TemperatureListMocks\Weather\Api\bin\Debug\netcoreapp2.2\Api.dll
+C:\Users\vince\Desktop\TemperatureListMocks\Weather\Api\bin\Debug\netcoreapp2.2\Api.pdb
+C:\Users\vince\Desktop\TemperatureListMocks\Weather\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache

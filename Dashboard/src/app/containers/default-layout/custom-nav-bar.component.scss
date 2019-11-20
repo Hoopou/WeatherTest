@@ -1,0 +1,62 @@
+
+  
+  img{
+    max-height: 2.5rem;
+    display: inline-block;
+    margin-right: 0.5rem;
+  }
+
+  .container{
+    display: flex;
+    align-items: center;
+  }
+  
+  ::ng-deep aside {
+    background-color: #fff;
+    padding: 2em 1em;
+  }
+  
+  .demo-header {
+    align-items: center;
+    background: #02afe4;
+    color: #fff;
+    display: flex;
+    padding: 1em;
+  }
+  
+    .demo-header__toggle {
+      background: transparent;
+      border: 0.15rem solid #fff;
+      border-left: 0;
+      border-right: 0;
+      cursor: pointer;
+      font-size: 0;
+      height: 1.5rem;
+      margin-right: 1rem;
+      position: relative;
+      width: 2rem;
+    }
+      .demo-header__toggle:after {
+        background: #fff;
+        content: '';
+        height: 0.15rem;
+        left: 0;
+        margin-top: -0.075rem;
+        position: absolute;
+        top: 50%;
+        width: 100%;
+      }
+  
+  .demo-contents {
+    padding: 0 2em;
+  }
+
+  p, h5{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .container-body{
+    background-color: #fff;
+    overflow-y: auto;
+  }
